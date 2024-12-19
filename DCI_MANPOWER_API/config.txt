@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Server=192.168.226.86;Database=dbSCM;TrustServerCertificate=True;uid=sa;password=decjapan" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -force -t  MPCK_CheckInLog,MPCK_Dictionary,MPCK_Layout,MPCK_Object,MPCK_Object_Master -Context DBSCM  -ContextDir "Contexts"
